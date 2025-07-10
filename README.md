@@ -14,23 +14,23 @@ It reflects the game’s core theme: navigating a world where entropy is constan
 This project is released under the MIT License.
 
 You are free to:
--View and learn from the code,
--Fork or modify it for educational purposes,
--Submit issues or suggestions.
+- View and learn from the code,
+- Fork or modify it for educational purposes,
+- Submit issues or suggestions.
 
-📈 Roadmap (Optional)
- -Optimization
+📈 Roadmap
+ - Optimization
  
- -Gameplay prototypes
+ - Gameplay prototypes
   Pc / Android / Webb
 
- -Public demo
+ - Public demo
 
- -Migrating concept to godot engine for commercial version
+ - Migrating concept to godot engine for commercial version
 
 🙋 Want to Collaborate?
 Feel free to open an issue or send a message if you're:
 
--A developer interested in contributing,
--An artist/designer with complementary skills,
--Or someone curious about the project and its future.
+- A developer interested in contributing,
+- An artist/designer with complementary skills,
+- Or someone curious about the project and its future.
