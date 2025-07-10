@@ -1,0 +1,1 @@
+This version has no backgrounds or effects. Player control is directly linked to the mouse position for a special use case, where I adapted it for a friend with cerebral palsy to use with eye-tracking equipment as coordination training.
